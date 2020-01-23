@@ -4,4 +4,6 @@
 
 
 ## Stereo Matching
-> - __[0119](./0119.md)__ │ CSS 개념.
+
+## Image Classification
+> - __[Improving Pairwise Ranking for Multi-label Image Classification](.ImageClassification/00.md)__ │ CSS 개념.
