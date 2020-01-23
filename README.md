@@ -6,4 +6,4 @@
 ## Stereo Matching
 
 ## Image Classification
-> - __[Improving Pairwise Ranking for Multi-label Image Classification](.ImageClassification/00.md)__ │ Pairwise Ranking loss
+> - __[Improving Pairwise Ranking for Multi-label Image Classification](./ImageClassification/00.md)__ │ Pairwise Ranking loss
